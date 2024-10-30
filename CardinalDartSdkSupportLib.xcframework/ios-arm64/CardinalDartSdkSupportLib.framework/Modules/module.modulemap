@@ -1,0 +1,8 @@
+framework module "CardinalDartSdkSupportLib" {
+    umbrella header "CardinalDartSdkSupportLib.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
