@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                = "CardinalDartSdkSupportLib"
-  spec.version             = "1.0.0-RC.4"
+  spec.version             = "1.0.0-RC.5"
   spec.summary             = "Support library for the dart implementation of the Cardinal SDK."
   spec.description         = <<-DESC
   Support library for the dart implementation of the Cardinal SDK.
